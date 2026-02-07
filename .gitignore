@@ -1,0 +1,6 @@
+# Dependencies
+node_modules/
+package-lock.json
+
+# Optional: descomenta si NO quieres versionar archivos generados
+# build/
