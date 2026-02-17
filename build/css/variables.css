@@ -1,9 +1,11 @@
 /**
  * Do not edit directly
- * Generated on Sun, 15 Feb 2026 03:42:17 GMT
+ * Generated on Tue, 17 Feb 2026 16:00:05 GMT
  */
 
 :root {
-  --color-base-black: #000000;
-  --color-base-white: #ffffff;
+  --text-color-secundary-default: #ee0000;
+  --text-color-primary-default: #0010bd;
+  --color-base-black: #0010bd;
+  --color-base-white: #ee0000;
 }
